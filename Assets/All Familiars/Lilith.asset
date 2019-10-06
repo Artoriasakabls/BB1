@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b29a2c5294624024a9572ad751505e00, type: 3}
+  m_Name: Lilith
+  m_EditorClassIdentifier: 
+  name: Lilith
+  FamiliarSprite: {fileID: 0}
+  growtype: 0
+  Rarity: 2
+  Skillname: 
+  SkillDescription: 
+  ISAutoAttackPositionDependent: 0
+  AttackType: 0
+  AutoAttackDamage: 0
+  basehp: 0
+  finalhp: 0
+  baseatk: 0
+  finalatk: 0
+  basedef: 0
+  finaldef: 0
+  basewis: 0
+  finalwis: 0
+  baseagi: 0
+  finalagi: 0
+  familiarLevel: 0
+  race: 0
+  gender: 0
+  IsTradable: 0
+  IsSacrificable: 0
+  FamiliarWorth: 0
